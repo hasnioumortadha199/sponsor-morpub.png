@@ -34,7 +34,7 @@ export default function App() {
     phone: "+213779215955",
     whatsapp: "213770733069",
     email: "morpub19@gmail.com",
-    instagram: "https://www.instagram.com/morpub",
+    instagram: "https://www.instagram.com/morpub19?igsh=MXZva2YxMHFsMWJqMw==",
     facebook: "https://www.facebook.com/morpub",
     tiktok: "https://www.tiktok.com/@morpub",
     website: "https://morpub.com",
