@@ -31,9 +31,9 @@ export default function App() {
     description:
       "MorPub accompagne les entreprises avec des solutions modernes en communication, publicité, contenu visuel, impression et développement digital.",
     sponsorPdf: "/pack-sponsor.pdf",
-    phone: "+213555000000",
-    whatsapp: "213555000000",
-    email: "contact@morpub.com",
+    phone: "+213779215955",
+    whatsapp: "213770733069",
+    email: "morpub19@gmail.com",
     instagram: "https://www.instagram.com/morpub",
     facebook: "https://www.facebook.com/morpub",
     tiktok: "https://www.tiktok.com/@morpub",
